@@ -26,13 +26,11 @@
 
 About me:
 
-- 🔭 I’m currently working on Honeywell
-- 🌱 I’m currently learning Data Science and Machine Learning
-- 👯 I’m looking to collaborate on Python, PHP, C#
-- 💬 Ask me about anything
-- 📫 How to reach me: Email,
-
-
+- 🔭 Currently working at Honeywell with a focus on innovative solutions and cutting-edge technology.
+- 🌱 Actively learning Data Science and Machine Learning to enhance my analytical and predictive modeling skills.
+- 👯 Open to collaboration on projects involving Python, PHP, and C#.
+- 💬 Feel free to ask me about software development, data analysis, or any tech-related topics.
+- 📫 Reach out to me via Email or connect on LinkedIn.
 <!---
 tincharlie/tincharlie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
